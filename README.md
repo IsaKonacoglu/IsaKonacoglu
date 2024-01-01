@@ -1,5 +1,5 @@
 
- Hi there 👋<br><br> 🌱 I'm Isa<br>⚡ I’m interested in Frontend Web Development...<br> 📚 Web Developer - Frontend - I create software and share what I learn.<br>👯 I’m looking to collaborate on ...<br>🤔 I’m looking for help with ...<br>💬 Ask me about ...<br>📫 How to reach me: ...<br>😄 Pronouns: ...<br>  Fun fact: ...<br> 🎓 I'm a chemistry graduate of Ataturk University...<br> 
+ Hi there 👋<br><br> 🌱 I'm Isa<br>🎓 I'm a chemistry graduate of Ataturk University...<br>⚡ I’m interested in Frontend Web Development...<br> 📚 Web Developer - Frontend - I create software and share what I learn.<br>🤔 I’m looking for help with ...<br>💬 Ask me about ...<br>📫 How to reach me: ...<br>😄 Pronouns: ...<br>  Fun fact: ...<br>   
  📫 How to reach me: isakonacoglu@hotmail.com / isakonacoglu79@gmail.com
 
 
