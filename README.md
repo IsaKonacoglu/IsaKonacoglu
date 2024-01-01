@@ -1,5 +1,5 @@
 
- Hi there 👋<br><br> 🌱 I'm Isa<br>🎓 I'm a chemistry graduate of Ataturk University...<br>⚡ I’m interested in Frontend Web Development...<br> 📚 Web Developer - Frontend - I create software and share what I learn.<br><br>   
+ Hi there 👋<br><br> 🌱 I'm Isa<br>🎓 I'm a chemistry graduate of Ataturk University...<br>⚡ I’m interested in Frontend Web Development...<br> 📚 Web Developer - Frontend - I create software and share what I learn.<br>🔭 I can use React, ReactNative, Javascript, Bootstrap, CSS, HTML5<br>💞️ I’m looking to collaborate on collaborations where I can improve myself, gain experience through teamwork, and expand my knowledge.  
  📫 How to reach me: isakonacoglu@hotmail.com / isakonacoglu79@gmail.com
 
 
