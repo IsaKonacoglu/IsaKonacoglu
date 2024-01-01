@@ -1,5 +1,5 @@
 
- Hi there 👋<br>IsaKonacoglu/IsaKonacoglu is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br>🔭 I’m currently working on frontend<br>🌱 I’m currently learning ...<br>👯 I’m looking to collaborate on ...<br>🤔 I’m looking for help with ...<br>💬 Ask me about ...<br>📫 How to reach me: ...<br>😄 Pronouns: ...<br>⚡ Fun fact: ...<br>
+ Hi there 👋<br>IsaKonacoglu/IsaKonacoglu is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br>🔭 I’m currently working on frontend<br>🌱 I’m currently learning ...<br>👯 I’m looking to collaborate on ...<br>🤔 I’m looking for help with ...<br>💬 Ask me about ...<br>📫 How to reach me: ...<br>😄 Pronouns: ...<br> 👀 I’m interested in Frontend Web Development...<br>⚡ Fun fact: ...<br> 🎓 I'm a chemistry graduate of Ataturk University...<br> 
  📫 How to reach me: isakonacoglu@hotmail.com / isakonacoglu79@gmail.com
 
 
